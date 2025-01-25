@@ -28,8 +28,8 @@ This project demonstrates how to consume and utilize the Companies House API usi
 
 ## Prerequisites
 1. A valid Companies House API key. Sign up [here](https://developer.companieshouse.gov.uk/developer/applications).
-2. .NET 6.0 SDK installed. Download [here](https://dotnet.microsoft.com/download).
-3. Visual Studio 2022 or any preferred IDE.
+2. .NET 8.0 SDK installed. Download [here](https://dotnet.microsoft.com/download).
+3. Visual Studio 2022+ or any preferred IDE.
 
 ---
 
